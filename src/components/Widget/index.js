@@ -9,7 +9,7 @@ const Widget = styled.div`
   overflow: hidden;
 
   h1, h2, h3 {
-    font-family: 'Bungee Hairline', cursive;
+    font-family: 'Bungee Hairline', 'Arial', sans-serif;
     font-size: 1.6rem;
     text-align: center;
     -webkit-text-stroke: 1px;
