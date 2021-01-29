@@ -1,0 +1,45 @@
+{
+  "bg": "https://i.pinimg.com/originals/2b/0d/7c/2b0d7c77359492caf3f4647e80e9589b.jpg",
+  "title": "Line][Age - Quiz",
+  "description": "Teste seus conhecimentos sobre o melhor MMORPG de todos os tempos -> Line][Age.",
+  "questions": [
+    {
+      "image": "https://forum.valhalla-age.net/uploads/monthly_07_2018/post-27815-0-82370500-1532948719.gif",
+      "title": "Qual classe os humanos místicos podem escolher quando atingirem o nível 20? ",
+      "description": "Essa é pra aquecer",
+      "answer": 2,
+      "alternatives": [
+        "Blade Dancer or Shillen Wizard",
+        "Necromancer or Prophet",
+        "Cleric or Wizard",
+        "Wizard or Spellsinger"
+      ]
+    },
+    {
+      "image": "https://valhalla-age.net/img_news/second_an1.gif",
+      "title": "Qual destes é um Set robe A Grade?",
+      "description": "Faz tempo em haha",
+      "answer": 0,
+      "alternatives": [
+        "Dark Crystal Robe",
+        "Tunic of Avandon",
+        "Divine Tunic",
+        "Tunic of Zubei"
+      ]
+    }
+  ],
+  "external": [
+    ""
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#000",
+      "secondary": "#212121",
+      "mainBg": "#A43703",
+      "contrastText": "#FFFFFF",
+      "wrong": "#fb5200",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
